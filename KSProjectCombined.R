@@ -12,6 +12,7 @@ library(lsmeans)
 library(emmeans)
 library(MVN)
 
+#results for three based experiments
 ###-----DIRECTORIES-----###
 workdirectory <- setwd("~/Google Drive/Postdoc/Research/Knowledge sharing/Experiments/All experiments combined (Prolific)")
 
