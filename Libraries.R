@@ -1,0 +1,13 @@
+###-----LIBRARIES-----###
+library(foreign)
+library(pastecs)
+library(psych)
+library(car)
+library(lmtest)
+library(Hmisc)
+library(stargazer)
+library(lavaan)
+library(multcomp)
+library(lsmeans)
+library(emmeans)
+library(MVN)
